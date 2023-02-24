@@ -11,7 +11,6 @@ by.9veloper in Korean
 #### use plugin to Vue
 
 ```
-...
 import useWebp from 'vue-useWebp';
 Vue.use(useWebp);
 ```
