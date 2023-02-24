@@ -1,0 +1,21 @@
+{
+    "name": "vue-useWebp",
+    "version": "0.0.1",
+    "description": "use Webp format src in Vue2",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "vue2",
+      "useWebp",
+      "directive",
+      "webp"
+    ],
+    "repository" :
+        { "type" : "git"
+        , "url" : "https://github.com/9bin08/vue-useWebp.git"
+        },
+        "author": "9bin08@gmail.com",
+        "license": "MIT"
+  }
