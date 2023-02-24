@@ -1,6 +1,6 @@
 # vue-useWebp
 
-by.9veloper in Korean
+by.9veloper in Korea
 
 #### features
 
